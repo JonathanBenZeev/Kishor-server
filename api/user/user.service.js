@@ -95,6 +95,7 @@ async function add(user) {
             username: user.username,
             password: user.password,
             fullname: user.fullname,
+            email: user.email,
             inventaions: [],
             isAdmin: false
         }

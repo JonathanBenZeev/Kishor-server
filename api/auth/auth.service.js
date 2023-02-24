@@ -26,17 +26,17 @@ async function login(username, password) {
 }
    
 
-async function signup({username, password, fullname, imgUrl}) {
+async function signup({username, password, fullname, email}) {
     const saltRounds = 10
 
     logger.debug(`auth.service - signup with username: ${username}, fullname: ${fullname}`)
-    if (!username || !password || !fullname) return Promise.reject('Missing required signup information')
+    if (!username || !password || !fullname ||!email) return Promise.reject('Missing required signup information')
 
     const userExist = await userService.getByUsername(username)
     if (userExist) return Promise.reject('Username already taken')
 
     const hash = await bcrypt.hash(password, saltRounds)
-    return userService.add({ username, password: hash, fullname, imgUrl })
+    return userService.add({ username, password: hash, fullname, email })
 }
 
 
