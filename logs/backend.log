@@ -31482,3 +31482,23 @@
 24.2.2023, 16:18:25 - DEBUG - Getting stays (userId: 63f8bf2285447766c0cbb368)
 24.2.2023, 16:18:31 - DEBUG - Getting stays (userId: 63f8bf2285447766c0cbb368)
 24.2.2023, 16:22:15 - INFO - Server is running on port: 3030 
+24.2.2023, 17:45:47 - INFO - Server is running on port: 3030 
+24.2.2023, 17:47:17 - DEBUG - auth.service - login with username: Ellenkb 
+24.2.2023, 17:47:17 - INFO - User login:  | {"_id":"63f1fc8cd8b85f6ce0386a60","username":"Ellenkb","fullname":"Ellen Krosney","email":"yonatanbz6@gmail.com","inventaions":[{"id":"Vn5OUK","byUser":{"fullname":"Ellen Krosney","id":"63f1fc8cd8b85f6ce0386a60"},"startDate":"26/2/2023","endDate":"28/2/2023","guests":1,"status":"aproved"}],"isAdmin":true} 
+24.2.2023, 17:47:17 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+24.2.2023, 17:47:18 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+24.2.2023, 17:48:19 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+24.2.2023, 17:49:28 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+24.2.2023, 17:49:29 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+24.2.2023, 23:44:53 - INFO - Server is running on port: 3030 
+24.2.2023, 23:45:04 - DEBUG - auth.service - login with username: Ellenkb 
+24.2.2023, 23:45:05 - INFO - User login:  | {"_id":"63f1fc8cd8b85f6ce0386a60","username":"Ellenkb","fullname":"Ellen Krosney","email":"yonatanbz6@gmail.com","inventaions":[{"id":"Vn5OUK","byUser":{"fullname":"Ellen Krosney","id":"63f1fc8cd8b85f6ce0386a60"},"startDate":"26/2/2023","endDate":"28/2/2023","guests":1,"status":"aproved"}],"isAdmin":true} 
+24.2.2023, 23:45:05 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+24.2.2023, 23:45:05 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+24.2.2023, 23:54:03 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+24.2.2023, 23:54:03 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+24.2.2023, 23:55:22 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+24.2.2023, 23:55:22 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+25.2.2023, 0:02:40 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+25.2.2023, 0:15:51 - INFO - Server is running on port: 3030 
+25.2.2023, 0:15:53 - INFO - Server is running on port: 3030 
