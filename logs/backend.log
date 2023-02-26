@@ -31549,3 +31549,24 @@
 25.2.2023, 23:15:09 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
 25.2.2023, 23:18:16 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
 25.2.2023, 23:18:16 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:18 - INFO - Server is running on port: 3030 
+26.2.2023, 10:29:42 - DEBUG - auth.service - login with username: Ellenkb 
+26.2.2023, 10:29:42 - INFO - User login:  | {"_id":"63f1fc8cd8b85f6ce0386a60","username":"Ellenkb","fullname":"Ellen Krosney","email":"yonatanbz6@gmail.com","inventaions":[{"id":"Vn5OUK","byUser":{"fullname":"Ellen Krosney","id":"63f1fc8cd8b85f6ce0386a60"},"startDate":"26/2/2023","endDate":"28/2/2023","guests":1,"status":"aproved"}],"isAdmin":true} 
+26.2.2023, 10:29:43 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:43 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:47 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:49 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:49 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:50 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:51 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:51 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:52 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:56 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:57 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:29:57 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:33:25 - INFO - Server is running on port: 3030 
+26.2.2023, 10:33:26 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:33:27 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:33:28 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:33:30 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 10:33:30 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
