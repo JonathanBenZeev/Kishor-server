@@ -62,9 +62,7 @@ async function updateOrder(req, res) {
     const { loggedinUser } = store
     try {
         const order = req.body
-        // console.log(order, 'order')
         const updatedOrder = await orderService.update(order)
-        console.log(updatedOrder.buyerId, 'updatedOrder')
 
 
         //Update parties involved
@@ -74,10 +72,8 @@ async function updateOrder(req, res) {
         } else {
             otherPartyId = updatedOrder.buyerId;
         }
-        // console.log(order)
-        // console.log(order._id)
-        console.log('other party:' + otherPartyId)
-        console.log('loggedinUser:' + loggedinUser._id)
+   
+ 
 
         res.json(updatedOrder)
     } catch (err) {
