@@ -31591,3 +31591,12 @@
 26.2.2023, 12:35:19 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
 26.2.2023, 12:38:44 - INFO - Server is running on port: 3030 
 26.2.2023, 12:39:00 - INFO - Server is running on port: 3030 
+26.2.2023, 13:08:19 - INFO - Server is running on port: 3030 
+26.2.2023, 13:08:20 - DEBUG - auth.service - login with username: Ellenkb (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 13:08:20 - INFO - User login:  | {"_id":"63f1fc8cd8b85f6ce0386a60","username":"Ellenkb","fullname":"Ellen Krosney","email":"yonatanbz6@gmail.com","inventaions":[{"id":"Vn5OUK","byUser":{"fullname":"Ellen Krosney","id":"63f1fc8cd8b85f6ce0386a60"},"startDate":"26/2/2023","endDate":"28/2/2023","guests":1,"status":"aproved"}],"isAdmin":true} (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 13:08:20 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 13:08:21 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 13:08:24 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 13:10:03 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 13:10:09 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+26.2.2023, 13:12:25 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
