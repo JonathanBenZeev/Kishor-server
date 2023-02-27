@@ -31644,3 +31644,33 @@
 27.2.2023, 12:35:57 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
 27.2.2023, 12:35:57 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
 27.2.2023, 12:35:59 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 15:53:26 - INFO - Server is running on port: 3030 
+27.2.2023, 15:53:52 - DEBUG - auth.service - login with username: Ellenkb (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 15:53:52 - INFO - User login:  | {"_id":"63f1fc8cd8b85f6ce0386a60","username":"Ellenkb","fullname":"Ellen Krosney","email":"yonatanbz6@gmail.com","inventaions":[{"id":"Vn5OUK","byUser":{"fullname":"Ellen Krosney","id":"63f1fc8cd8b85f6ce0386a60"},"startDate":"26/2/2023","endDate":"28/2/2023","guests":1,"status":"aproved"}],"isAdmin":true} (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 15:53:52 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 15:53:53 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 15:54:17 - INFO - Server is running on port: 3030 
+27.2.2023, 15:54:59 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 15:55:11 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 15:55:12 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 15:55:46 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 15:55:46 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 16:01:41 - INFO - Server is running on port: 3030 
+27.2.2023, 16:01:47 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 16:01:49 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 16:01:50 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 16:01:51 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 16:01:52 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 16:01:53 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 16:01:53 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 16:02:45 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 16:02:45 - DEBUG - Getting stays (userId: 63f1fc8cd8b85f6ce0386a60)
+27.2.2023, 17:10:49 - DEBUG - auth.service - login with username: El1234kb 
+27.2.2023, 17:10:49 - ERROR - Failed to Login Invalid username or password 
+27.2.2023, 17:11:09 - DEBUG - auth.service - login with username: Ellenkb 
+27.2.2023, 17:11:10 - INFO - User login:  | {"_id":"63f1fc8cd8b85f6ce0386a60","username":"Ellenkb","fullname":"Ellen Krosney","email":"yonatanbz6@gmail.com","inventaions":[{"id":"Vn5OUK","byUser":{"fullname":"Ellen Krosney","id":"63f1fc8cd8b85f6ce0386a60"},"startDate":"26/2/2023","endDate":"28/2/2023","guests":1,"status":"aproved"}],"isAdmin":true} 
+27.2.2023, 17:11:10 - DEBUG - Getting stays 
+27.2.2023, 17:11:11 - DEBUG - Getting stays 
+27.2.2023, 17:11:14 - DEBUG - Getting stays 
+27.2.2023, 17:11:19 - DEBUG - Getting stays 
+27.2.2023, 17:11:19 - DEBUG - Getting stays 
